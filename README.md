@@ -10,13 +10,48 @@
 </br>
 
 
-<h1 align=center>About me 😃</h1>
+<h2 align=center>About me 😃</h2>
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+      <li>🎓 Systems Engineering Student</li>
+      <li>🌱 Currently learning Linux/Bash</li>
+      <li>💬 Ask me about **Java** and **Spring Boot**  </li>
+      <li>📄 View my <a href="https://github.com/juampa1907/resume/blob/1bff23dfb5eb0e35758cc53b06d17adb54ad9f96/CV_English.pdf" target="blank">Resume</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
+    </td>
+  </tr>
+</table>
+</br>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
--   🎓 SYSTEM ENGINEERING STUDENT
--   📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-
-</br>  
+<h1 align=center>Known technologies👨🏻‍💻</h1>
+<div align=center>
+   <h3>Frontend</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,tailwind&theme=light" />
+  </a>
+  <h3>Backend</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,hibernate,maven,nodejs&theme=light" />
+  </a>
+    <h3>Tools</h3>
+     <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&theme=light" />
+  </a>
+  </div>
+</br>
+<div align=center>
+  <h1> My statistics </h1> 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
+<br>
+  </div>
+<div align=center>
+  <a href="https://github.com/juampa1907">
+    <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=juampa1907&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juampa1907&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</div>
