@@ -18,7 +18,7 @@
       <li>🎓 Systems Engineering Student</li>
       <li>🌱 Currently learning Linux/Bash</li>
       <li>💬 Ask me about **Java** and **Spring Boot**  </li>
-      <li>📄 View my <a href="https://github.com/juampa1907/resume/blob/1bff23dfb5eb0e35758cc53b06d17adb54ad9f96/CV_English.pdf" target="blank">Resume</a></li>
+      <li>📄 View my <a href="https://github.com/juampa1907/resume/blob/c984ec479da1620240bfef4c09216a201f2ca09c/CV_English.pdf" target="blank">Resume</a></li>
       </ul>
     </td>
     <td>
