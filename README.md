@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> Hi 👋, I'm Juan Pablo / Juamp1907 </h1>
+<h1 align="center"> Hi 👋, I'm Juan Pablo / Juampa1907 </h1>
 </div>
 <h3 align="center">A passionate Full Stack developer from Bogotá Colombia</h3>
 
